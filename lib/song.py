@@ -52,4 +52,4 @@ song4 = Song("song4", "Artist3", "Pop")
 song5 = Song("song5", "Artist1", "Rap")
 
 print(Song.genre_count) 
-print(Song.artist_count) 
+print(Song.artist_count)     #888999888
